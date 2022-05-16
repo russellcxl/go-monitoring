@@ -1,8 +1,6 @@
 # go-monitoring
 Grafana and Prometheus
 
-___
-
 ## prometheus
 - start ` ./prometheus --config.file=./prometheus.yml`
 - scrapes data every 5 seconds
