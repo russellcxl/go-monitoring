@@ -2,6 +2,7 @@
 Grafana and Prometheus
 
 ## prometheus
+- download https://prometheus.io/download/#prometheus
 - start ` ./prometheus --config.file=./prometheus.yml`
 - scrapes data every 5 seconds
 
