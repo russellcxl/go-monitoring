@@ -18,3 +18,6 @@ Grafana and Prometheus
 ## server
 - start server on :8080 `go run main.go`
 - server will send data to :8080/metrics
+
+## docker 
+- run `docker-compose -d up`
